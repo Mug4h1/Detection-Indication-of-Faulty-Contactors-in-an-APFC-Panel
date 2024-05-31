@@ -28,7 +28,6 @@ This project is divided into 2 parts:
 <p>
     This repository contains the software aspect of our project.<br>
     ```markdown
-    For more infomation, you can checkout our published paper - 
-    [Detection and Indication of Faulty Contactors in an APFC Panel](https://www.ijnrd.org/viewpaperforall.php?paper=IJNRD2305184)
+    For more infomation, you can checkout our published paper - [Detection and Indication of Faulty Contactors in an APFC Panel](https://www.ijnrd.org/viewpaperforall.php?paper=IJNRD2305184)
     ```
 </p>
